@@ -40,9 +40,12 @@ Cooperation: purposeful interaction. Results and conclusions are exchanged.
  - Collaboration: simultaneous, interactive and purposeful collaboration
 
 https://web.archive.org/web/20151229154133/https://www.namics.com/fileadmin/user_upload/pdf/Wissen/2008/Fachartikel/E-Collaboration.pdf 
- 2. Credit and attribution, how to move beyond one dimensional credit: CRediT https://www.casrai.org/credit.html, roles attribution, transitive credit: Daniel Katz https://arxiv.org/abs/1407.5117, what to do about limits on attribution when there are 100s of contributors, sources, and data sources. But how can https://speakerdeck.com/arfon/journal-of-open-source-software-when-collaborative-open-source-meets-peer-review?slide=19
- 3. When using lots of different tools on the web. Lack of archiving, long term preservation: Using multiple tools across the web and institution don't know what's going on - Scholarly Productivity Portals - free, get functionality but have no archiving: no CLOCKSS https://clockss.org/, LTP - No systematic archiving. An example to solve these issue is https://myresearch.institute/ @mart1nkle1n 
- 4. Collaboration how is it impacting Open Science areas: Taking into account that there are technical and social (relations) are areas in Open science, e.g.,:
+
+2. Credit and attribution, how to move beyond one dimensional credit: CRediT https://www.casrai.org/credit.html, roles attribution, transitive credit: Daniel Katz https://arxiv.org/abs/1407.5117, what to do about limits on attribution when there are 100s of contributors, sources, and data sources. But how can https://speakerdeck.com/arfon/journal-of-open-source-software-when-collaborative-open-source-meets-peer-review?slide=19
+
+3. When using lots of different tools on the web. Lack of archiving, long term preservation: Using multiple tools across the web and institution don't know what's going on - Scholarly Productivity Portals - free, get functionality but have no archiving: no CLOCKSS https://clockss.org/, LTP - No systematic archiving. An example to solve these issue is https://myresearch.institute/ @mart1nkle1n 
+
+4. Collaboration how is it impacting Open Science areas: Taking into account that there are technical and social (relations) are areas in Open science, e.g.,:
  - Technical
    - OER
    - Open Access
