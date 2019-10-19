@@ -1,6 +1,6 @@
 # Open Science Publishing Flood and Collaborative Authoring
 
-Panel 23 Oct 2019
+Panel 23 Oct 2019, 11:30-13:00
 
 Twenty-First International Conference on Grey Literature
 
@@ -8,7 +8,9 @@ Open Science Encompasses New Forms of Grey Literature
 
 German National Library of Science and Technology
 
-Leibnizhaus, Holzmarkt 5, Hannover, Germany • October 22-23, 2019
+Leibnizhaus, Holzmarkt 5, 30159 Hannover, Germany • October 22-23, 2019 ([map - OpenStreetMap](https://www.openstreetmap.org/search?query=Leibnizhaus%2C%20Holzmarkt%205%2C%20Hannover#map=19/52.37141/9.73223)) WikiData ID [Q1813804](https://www.wikidata.org/wiki/Q1813804)
+
+![Leibniz Haus in Hannover](https://upload.wikimedia.org/wikipedia/commons/1/1c/Leibniz_Haus_2008.jpg "Leibniz Haus in Hannover")
 
 http://www.textrelease.com/gl21program.html
 
@@ -22,10 +24,20 @@ Nelson, Theodor Holm. Literary Machines: The Report on, and of, Project Xanadu C
 
 ## Panelists
 
- - Simon Worthington (Chair) - German National Library of Science and Technology, TIB Hannover, Germany
- - Daniel Speicher - Bonn-Aachen Int. Center for Information Technology, University of Bonn, Germany
- - Peter Murray-Rust - United Kingdom
- - Ludwig Hülk - Reiner Lemoine Institut gGmbH, Germany
+ - Simon Worthington (Chair) - German National Library of Science and Technology, TIB Hannover, Germany - presentation link TBC
+ - Daniel Speicher - Bonn-Aachen Int. Center for Information Technology, University of Bonn, Germany - presentation link TBC
+ - Peter Murray-Rust - United Kingdom - presentation link TBC
+ - Ludwig Hülk - Reiner Lemoine Institut gGmbH, Germany - presentation link TBC
+ 
+## Questions
+
+The long list https://cryptpad.fr/pad/#/2/pad/edit/mxuQrhI6kpLu-2FgcI3L6ggf/
+
+Four key issues related to Open Science and collaborative authoring
+
+
+ 
+ 
 
 
 
