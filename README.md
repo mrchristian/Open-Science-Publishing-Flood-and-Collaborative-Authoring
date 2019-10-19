@@ -10,9 +10,9 @@ Open Science Encompasses New Forms of Grey Literature
 
 **Host and location**
 
-German National Library of Science and Technology
+Host: German National Library of Science and Technology
 
-Leibnizhaus, Holzmarkt 5, 30159 Hannover, Germany • October 22-23, 2019 ([map - OpenStreetMap](https://www.openstreetmap.org/search?query=Leibnizhaus%2C%20Holzmarkt%205%2C%20Hannover#map=19/52.37141/9.73223)) WikiData ID [Q1813804](https://www.wikidata.org/wiki/Q1813804)
+Location: Leibnizhaus, Holzmarkt 5, 30159 Hannover, Germany • October 22-23, 2019 ([map - OpenStreetMap](https://www.openstreetmap.org/search?query=Leibnizhaus%2C%20Holzmarkt%205%2C%20Hannover#map=19/52.37141/9.73223)) WikiData ID [Q1813804](https://www.wikidata.org/wiki/Q1813804)
 
 ![Leibniz Haus in Hannover](https://upload.wikimedia.org/wikipedia/commons/1/1c/Leibniz_Haus_2008.jpg "Leibniz Haus in Hannover")
 
@@ -24,7 +24,7 @@ Currently there is a deluge of ‘off-piste’ collaborative authoring going on 
 
  - Simon Worthington (Chair) [@mrchristian99](https://twitter.com/mrchristian99) - German National Library of Science and Technology, TIB Hannover, Germany - presentation link TBC
  - Daniel Speicher [@dsp_de](https://twitter.com/dsp_de) - Bonn-Aachen Int. Center for Information Technology, University of Bonn, Germany - presentation link TBC
- - Peter Murray-Rust [@petermurrayrust](https://twitter.com/petermurrayrust) - United Kingdom - presentation link TBC
+ - Peter Murray-Rust [@petermurrayrust](https://twitter.com/petermurrayrust), via video link - United Kingdom - presentation link TBC
  - Ludwig Hülk [@LudwigHuelk](https://twitter.com/LudwigHuelk) - Reiner Lemoine Institut gGmbH, Germany - presentation link TBC
  
 ## Questions
