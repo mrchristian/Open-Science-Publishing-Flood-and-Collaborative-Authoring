@@ -33,8 +33,7 @@ The long list https://cryptpad.fr/pad/#/2/pad/edit/mxuQrhI6kpLu-2FgcI3L6ggf/
 
 Four key issues related to Open Science and collaborative authoring:
 
- 1. Types of collaboration: e.g., open collaborations (Karl Fogel ), do these ideas and descriptions work to describe the space:
-Cooperation: purposeful interaction. Results and conclusions are exchanged.
+ 1. Types of collaboration: do these categories capture what is included in collaboration? 
 
  - Teamwork: analogous, spatially and temporally limited cooperation
  - Collaboration: simultaneous, interactive and purposeful collaboration
