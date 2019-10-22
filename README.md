@@ -1,6 +1,6 @@
 # Panel: Open Science Publishing Flood and Collaborative Authoring
 
-#collabauth - 23 Oct 2019, 11:30-13:00 http://www.textrelease.com/gl21program.html
+#collabauth - 23 Oct 2019, 11:30-13:00 CEST http://www.textrelease.com/gl21program.html
 
 **Conference**
 
