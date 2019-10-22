@@ -22,11 +22,11 @@ Currently there is a deluge of ‘off-piste’ collaborative authoring going on 
 
 ## Panelists
 
- - Simon Worthington (Chair) [@mrchristian99](https://twitter.com/mrchristian99) - German National Library of Science and Technology, TIB Hannover, Germany - presentation link TBC
- - Daniel Speicher [@dsp_de](https://twitter.com/dsp_de) - Bonn-Aachen Int. Center for Information Technology, University of Bonn, Germany - presentation link TBC
- - Peter Murray-Rust [@petermurrayrust](https://twitter.com/petermurrayrust), via video link - United Kingdom - presentation link TBC
+ - Simon Worthington (Chair) [@mrchristian99](https://twitter.com/mrchristian99) - German National Library of Science and Technology, TIB Hannover, Germany - [presentation link](http://linkme2.net/1vm)
  - Ludwig Hülk [@LudwigHuelk](https://twitter.com/LudwigHuelk) - Reiner Lemoine Institut gGmbH, Germany - presentation link TBC
- 
+ - Daniel Speicher [@dsp_de](https://twitter.com/dsp_de) - Bonn-Aachen Int. Center for Information Technology, University of Bonn, Germany - presentation link TBC
+ - Peter Murray-Rust [@petermurrayrust](https://twitter.com/petermurrayrust), via video link - United Kingdom - [presentation link](https://cryptpad.fr/slide/#/2/slide/edit/xoydvSkHa7hGrYE-kE2r6KmI/present/) 
+
 ## Questions
 
 The long list https://cryptpad.fr/pad/#/2/pad/edit/mxuQrhI6kpLu-2FgcI3L6ggf/
