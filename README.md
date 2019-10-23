@@ -69,7 +69,50 @@ Nelson, Theodor Holm. Literary Machines: The Report on, and of, Project Xanadu C
 All refs *GenR* Zotero group tag #collabauth: https://www.zotero.org/groups/1838445/generation_r/items/tag/collabauth
  
 
+## Presentation Text: Simon Worthington (draft)
 
+### A perspective on future publishing
+
+I am approaching collaborative authoring from the experiences of being the director of a small publishing company. It is these experiences that inform my research of ‘future publishing’. This means caring about the integrity of all parts of a publication and over its complete life and being aware of the hidden labor and skills involved in a publication production.
+
+What is important to Open Science now is to take on board that the transformation to **‘semantic/computational publishing’** is not only desirable/inevitable but it is now happening at an accelerated rate. Finally after 80+ years of the universal machine we can start writing again.
+
+### Open Scholarship/Science: Trust, participation, and sprints
+
+Collaborative authoring is of value generally to Open Science in terms of developing trust in scholarship and science and creating pathways for participation by the public, such as: professional, NGOs, in training, and the general public. The Open Science of 5 years ago is not the Open Science of now and the far-right and governments around the world look to attack institutions of knowledge directly, and so strengthening connections to the outside world are needed even more.
+
+**Sprints** are the example of collaborative authoring I would like to use as they are examples of making a context and a goal for knowledge creation, what I would call **pathways**.
+
+### The flood
+
+Academics are using multiple tools across the web and institution don't know what's going on — **scholarly productivity portals gone wild** — where they get free functionality but with no long term preservation, no systematic archiving, or CLOCKSS and which opens up lots of questions. The systems might be: FigShare, Zenodod, Twitter, SlideShare, Etherpads, GitHub, or Instagram, etc. And yet it is the mandate of national libraries and other institutions to preserve scholarly output.
+
+One example prototype project addresses this issue from Los Alamos National Laboratory is called **The Scholarly Orphans**. The proposal is that institutions archive their members content using web crawlers and this has been shown to work at scale.
+
+The Scholarly Orphans https://myresearch.institute/   
+
+Slides from Force11 Conf 16 Oct as captured from Slide Share https://myresearch.institute/event/eb9d2e1b518a4c5194854dd267e5ee28/ 
+
+### Institutions as service providers
+
+When we look around to see who are the platform or service providers then we see that nearly all collaborative authoring systems are fully FOSS and so can he hosted. Let’s take collaborative real-time writing as the example:
+
+ - CrypPad
+ - CodiMD 
+ - Etherpad
+ - Jupyter Book/Notebook/Binder - with Prosemirror
+ - Fidus Writer
+ - Dokie.li
+
+If we want to open up scholarship to the wider public then **could libraries or institutions be the hosts for such tools** instead of unstable providers. I say this when there isn’t much interest in market supplier to provide these services or if there is there isn’t a profit to incentivize them.
+
+### Open Science and connected services
+
+In the model of semantic/computational publishing we move beyond platforms and onto connected services, what can be called ‘cloud services’ or ‘microservices’ and this means we have different types of collaboratively authored content.
+
+ - The **literature publication** with a sprint - group collaboration
+ - **Linked data** and Wikidata - crowd collaboration
+ - And **knowledge graphs** such as the TIB project **Open Research Knowledge Graph** - aggregated collaborations
  
  
 
